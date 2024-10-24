@@ -1,0 +1,9 @@
+argparse
+requests
+beautifulsoup4
+urllib3
+tqdm
+colorama
+time
+subprocess
+socket
